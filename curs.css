@@ -68,8 +68,6 @@ border-radius: 20px;
 }
 
 .vse {
-  
-  font-size: 8px;
   padding-top: 30px;
   /* position: relative; */
   /* border: 2px solid black; */
@@ -83,6 +81,10 @@ border-radius: 20px;
   padding: 15px;
   margin: 5px;
   border-radius: 20px;
+  }
+  .ss{
+    font: optional;
+    /* max-width: 500px; */
   }
 .number {
   /* max-width: 100%; */
