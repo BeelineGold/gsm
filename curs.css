@@ -33,22 +33,25 @@ font-style: italic;
 margin: 0;
 }
 .info{
-  font-size: 15px;
+  
+  /* font-size: 15px; */
   display: flex;
   max-width: 100%;
   margin-left: 20px;
   margin-bottom: 20px;
 }
 .text{
+  font-size: 15px;
   margin-left: 40px;
 }
 .text h4{
+
 margin-bottom: 10px;
 }
 
 
 
-@media (max-width: 750px) {
+@media (max-width: 1000px) {
   .info {
     
     text-align: center;
@@ -65,6 +68,7 @@ border-radius: 20px;
 }
 
 .vse {
+  
   font-size: 8px;
   padding-top: 30px;
   /* position: relative; */
